@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { formatDate, getBlogPosts } from 'app/blog/utils'
+import { formatDate, getBlogPosts } from 'app/panorama/utils'
 import { getPoetry } from 'app/poetry/utils'
 import { getPapers } from 'app/papers/utils'
 
